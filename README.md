@@ -30,3 +30,12 @@
   <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizeu-vasconcelos1992&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<h1>Links</h1>
+
+<div>
+<a href="mailto:elizeucosta21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/elizeuvasconcelos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/5596991118797"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://elizeuvasconcelos.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</div>
+
