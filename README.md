@@ -26,7 +26,7 @@
 <h1>Data</h1>
 
 <div style="display: flex; justify-content: space-between">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=elizeu-vasconcelos1992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizeu-vasconcelos1992&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140rem" src="https://github-readme-stats.vercel.app/api?username=elizeu-vasconcelos1992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizeu-vasconcelos1992&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
