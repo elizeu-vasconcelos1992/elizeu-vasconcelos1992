@@ -1,6 +1,6 @@
 <h1>About</h1>
 
-<h3>Hi, my name is Elizeu and I'm a front end developer and environmental engineer.</h3>
+<h3>Hi, my name is Elizeu and I'm a full-stack developer and environmental engineer.</h3>
 
 <h1>Interests</h1>
 
